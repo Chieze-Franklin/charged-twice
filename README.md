@@ -11,7 +11,7 @@ The transactions for Dec 1 (where `+` represents credit and `-` represents debit
 > * +5,000 = 221,998.75
 >
 > See images below for proof:
->> [Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233014.png "I entered December 2017 with N218,998.75 in this account")
->> [Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233035.png "N2,000 debit for MTN airtime")
->> [Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233048.png "N5,000 credit")
+>> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233014.png "I entered December 2017 with N218,998.75 in this account")
+>> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233035.png "N2,000 debit for MTN airtime")
+>> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233048.png "N5,000 credit")
 
