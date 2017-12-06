@@ -54,7 +54,7 @@ Please fix this, return my money, and avoid future occurence in the name of cust
 
 Thank you.
 
-Your valued customer,
-Franklin Chieze,
-Account Name: ChiezeFranklin Ikenna,
+Your valued customer,  
+Franklin Chieze,  
+Account Name: ChiezeFranklin Ikenna,  
 Account Number: 005****797
