@@ -31,7 +31,7 @@ On Tuesday December 5, I was credited with <strike>N</strike>2,000 (a refund fro
 > * Current balance = 216,510.75
 > * +1,000 = 217,510.75 `refund from Access Bank`
 > * +1,000 = 218,510.75 `refund from Access Bank`
-> * -50 = 218,460.75 `refund from Access Bank`
+> * -50 = 218,460.75 `ATM card fee`
 >
 > See images below for proof:
 >> ![N2,000 refund](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233929.png "Thanks for refunding this; I trust you can also come through this time")
@@ -41,6 +41,10 @@ However, I was shocked when I finally got the SMS notification for the <strike>N
 days back only to discover I had been debited <strike>N</strike>10,488 **AGAIN**, bringing my account balance to
 <strike>N</strike>207,972.75 (`218,460.75 - 10,488 = 207,972.75`).
 > ![Another N10,488 debit?](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-234159.png)
+
+![Interactions with the account on Tuesday](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-234438.png "I had only 2 valid interactions with that account on Tuesday, December 5")
+
+![State of account on Wednesday](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171206-075622.png "As at the morning of Wednesday, December 6 the issue had still not been resolved")
 
 I am very worried because I feel this will happen again. There are other online payments I have made for which I
 have been charged, but without receiving SMS notification. I fear that when the notification comes through I will
