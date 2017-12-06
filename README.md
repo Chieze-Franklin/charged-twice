@@ -15,3 +15,5 @@ The transactions for Dec 1 (where `+` represents credit and `-` represents debit
 >> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233035.png "N2,000 debit for MTN airtime")
 >> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233048.png "N5,000 credit")
 
+There was no financial transaction on Saturday, December 2 (as shown in the image below), so account balance was still at #221,998.75:
+> ![No financial transaction](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233125.png)
