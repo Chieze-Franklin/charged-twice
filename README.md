@@ -12,11 +12,17 @@ The transactions for Dec 1 (where `+` represents credit and `-` represents debit
 >
 > See images below for proof:
 >> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233014.png "I entered December 2017 with N218,998.75 in this account")
->> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233035.png "N2,000 debit for MTN airtime")
->> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233048.png "N5,000 credit")
+>> ![N2,000 debit for MTN airtime](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233035.png "N2,000 debit for MTN airtime")
+>> ![N5,000 credit](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233048.png "N5,000 credit")
 
 There was no financial transaction on Saturday, December 2 (as shown in the image below), so account balance was still at <strike>N</strike>221,998.75:
 > ![No financial transaction](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233125.png)
 
 On Sunday, December 3, I withdrew <strike>N</strike>5,000 from an ATM. This should have brought my account balance to <strike>N</strike>216,998.75 (`221,998.75 - 5,000 = 216,998.75`), instead I had an account balance of <strike>N</strike>206,510.75 (as seen below). The only logical explanation is that Access Bank had already debited my account of the <strike>N</strike>10,488 (`216,998.75 - 10,488 = 206,510.75`). Note that I got no SMS notification for the N10,488 that day.
-> ![Closing balance for November 2017](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233204.png "The N10,488 has already been debited from my account")
+> ![The N10,488 has already been debited from my account](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233204.png "The N10,488 has already been debited from my account")
+
+I have a personal finance management app that also shows all the transactions discussed thus far.
+> ![Personal finance management app](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-234403.png "The N10,488 has already been debited from my account")
+
+On Monday, I was credited with <strike>N</strike>10,000, taking my account balance to <strike>N</strike>216,510.75 (`206,510.75 + 10,000 = 216,510.75`)
+> ![December 4 Update](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233720.png " N10,000 credit")
