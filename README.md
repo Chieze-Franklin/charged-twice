@@ -24,5 +24,30 @@ On Sunday, December 3, I withdrew <strike>N</strike>5,000 from an ATM. This shou
 I have a personal finance management app that also shows all the transactions discussed thus far.
 > ![Personal finance management app](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-234403.png "The N10,488 has already been debited from my account")
 
-On Monday, I was credited with <strike>N</strike>10,000, taking my account balance to <strike>N</strike>216,510.75 (`206,510.75 + 10,000 = 216,510.75`)
+On Monday December 4, I was credited with <strike>N</strike>10,000, taking my account balance to <strike>N</strike>216,510.75 (`206,510.75 + 10,000 = 216,510.75`)
 > ![December 4 Update](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233720.png " N10,000 credit")
+
+On Tuesday December 5, I was credited with <strike>N</strike>2,000 (a refund from Access Bank), and charged <strike>N</strike>50 for card maintenance. My transactions were:
+> * Current balance = 216,510.75
+> * +1,000 = 217,510.75 `refund from Access Bank`
+> * +1,000 = 218,510.75 `refund from Access Bank`
+> * -50 = 218,460.75 `refund from Access Bank`
+> //insert images
+
+However, I was shocked when I finally got the SMS notification for the <strike>N</strike>10,488 purchase of a few
+days back only to discover I had been debited <strike>N</strike>10,488 **AGAIN**, bringing my account balance to
+<strike>N</strike>207,972.75 (`218,460.75 - 10,488 = 207,972.75`)
+//insert image
+
+I am very worried because I feel this will happen again. There are other online payments I have made for which I
+have been charged, but without receiving SMS notification. I fear that when the notification comes through I will
+be charged again.
+
+Please fix this, return my money, and avoid future occurence in the name of customer satisfaction.
+
+Thank you.
+
+Your valued customer,
+Franklin Chieze,
+Account Name: ChiezeFranklin Ikenna,
+Account Number: 005****797
