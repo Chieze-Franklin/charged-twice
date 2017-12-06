@@ -32,16 +32,19 @@ On Tuesday December 5, I was credited with <strike>N</strike>2,000 (a refund fro
 > * +1,000 = 217,510.75 `refund from Access Bank`
 > * +1,000 = 218,510.75 `refund from Access Bank`
 > * -50 = 218,460.75 `refund from Access Bank`
-> //insert images
+>
+> See images below for proof:
+>> ![N2,000 refund](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-233929.png "Thanks for refunding this; I trust you can also come through this time")
+>> ![N50 card fee](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-234037.png)
 
 However, I was shocked when I finally got the SMS notification for the <strike>N</strike>10,488 purchase of a few
 days back only to discover I had been debited <strike>N</strike>10,488 **AGAIN**, bringing my account balance to
-<strike>N</strike>207,972.75 (`218,460.75 - 10,488 = 207,972.75`)
-//insert image
+<strike>N</strike>207,972.75 (`218,460.75 - 10,488 = 207,972.75`).
+> ![Another N10,488 debit?](https://s3.us-east-2.amazonaws.com/franklin-chieze/Screenshot_20171205-234159.png)
 
 I am very worried because I feel this will happen again. There are other online payments I have made for which I
 have been charged, but without receiving SMS notification. I fear that when the notification comes through I will
-be charged again.
+be charged again. Please consider the effort I have taken to prepare this (needless to say I can't be doing this everytime; it would be easier to just close this little account), and do the needful.
 
 Please fix this, return my money, and avoid future occurence in the name of customer satisfaction.
 
